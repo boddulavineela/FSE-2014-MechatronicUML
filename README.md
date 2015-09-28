@@ -8,7 +8,7 @@ This repository is not the original repository for this tool. Here are some link
 * [A Video of the Tool](https://www.youtube.com/watch?v=xQJdd5HGs-M)
 
 
-In this repository, for RUBRIC you will find:
+In this repository, for MechatronicUML you will find:
 * :white_check_mark: [The Source Code - MechatronicUML](tbd0) (available)
 * :white_check_mark: [The Original Tool - MechatronicUML](tbd0) (available)
 * :x: [A slightly modified version of the original tool](tbd1) [Vineela Boddula](https://github.com/boddulavineela) not working (not available - Built on software (dymola) that requires paid license)
